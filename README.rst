@@ -4,7 +4,7 @@ ibicus
 ******
 
 |pypi_release| |pypi_status| |PyPI license| |pypi_downloads| |docs| |PyPI pyversions| |made-with-python| |made-with-sphinx-doc| |Maintenance yes| |Ask Me Anything !| |GitHub contributors|
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ecmwf-projects/ibicus.git/HEAD)
 
 **ibicus provides a flexible and user-friendly toolkit for the bias correction of climate models and associated evaluation.**
 
